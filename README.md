@@ -50,4 +50,8 @@ Aynı hatayı ikinci kez yapmaz. Bir ay sonra skill'in senin yazdığın gibi ya
 
 ## Lisans
 
-MIT. Kopyala, değiştir, paylaş.
+[CC BY-NC 4.0](LICENSE) © 2026 M. Sude Özkan ([@sude.ai](https://www.instagram.com/sude.ai/)).
+
+- ✅ Kullan, kendine göre değiştir, paylaş.
+- ✅ Paylaşırken kaynağı belirt (bu repo ve @sude.ai).
+- ❌ Ticari amaçla kullanma: paketleyip satma, ücretli kursa/ürüne koyma.
