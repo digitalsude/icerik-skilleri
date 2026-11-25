@@ -14,6 +14,8 @@ Skill, Claude'a **bir kez** yazdığın tariftir: kuralların, örneklerin, kaç
 | 6 | [`carousel-tasarimi`](skills/carousel-tasarimi/SKILL.md) | Tek bir görsel stil; her carousel aynı elden çıkmış gibi |
 | 7 | [`pano-okuyucu`](skills/pano-okuyucu/SKILL.md) | İstatistik ekran görüntüsünü okuyup "neyi tekrar et, neyi bırak" der |
 
+**Yeni:** [Claude ile kendi uygulamanı yap: 5 hazır prompt](uygulama-promptlari/README.md). Install as app ile masaüstüne kurulan uygulamalar için kopyala-yapıştır promptlar.
+
 ## Kurulum
 
 **Claude uygulaması (web / masaüstü):**
